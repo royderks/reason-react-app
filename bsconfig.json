@@ -1,0 +1,19 @@
+{
+  "name": "my-react-app",
+  "reason": {
+    "react-jsx": 2
+  },
+  "sources": [
+    "src/ReasonComponents"
+  ],
+  "package-specs": [{
+    "module": "commonjs",
+    "in-source": true
+  }],
+  "suffix": ".bs.js",
+  "namespace": true,
+  "bs-dependencies": [
+    "reason-react"
+  ],
+  "refmt": 3
+}
